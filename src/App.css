@@ -1,0 +1,44 @@
+#root {
+ background-color: rgb(255, 255, 255);
+ 
+  text-align: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.nav-bar {
+  /* Styles for navigation bar */
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
+}
+
+.below-nav {
+  padding: 20px;
+  color: #000000;
+  background-color: transparent; /* No background color */
+  margin-top: 20px; /* Adjust margin-top to position it below nav-bar */
+}
+
+.below-nav h2 {
+  font-size: 42px; /* Increase font size */
+  font-weight: bold; /* Make font bold */
+}
+
+.below-nav p {
+  font-size: 18px; /* Increase font size */
+}
+
+

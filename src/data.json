@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "src": "./vite.svg",
+    "alt": "Image 1",
+    "label": "Label 1",
+    "description": "Description for image 1"
+  },
+  {
+    "id": 2,
+    "src": "path_to_image_2.jpg",
+    "alt": "Image 2",
+    "label": "Label 2",
+    "description": "Description for image 2"
+  },
+  {
+    "id": 3,
+    "src": "path_to_image_3.jpg",
+    "alt": "Image 3",
+    "label": "Label 3",
+    "description": "Description for image 3"
+  },
+  {
+    "id": 4,
+    "src": "path_to_image_4.jpg",
+    "alt": "Image 4",
+    "label": "Label 4",
+    "description": "Description for image 4"
+  },
+  {
+    "id": 5,
+    "src": "path_to_image_5.jpg",
+    "alt": "Image 5",
+    "label": "Label 5",
+    "description": "Description for image 5"
+  }
+]

@@ -1,0 +1,19 @@
+.carousel {
+    overflow: hidden;
+  }
+  
+  .carousel-inner {
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .carousel-button {
+    background: rgba(216, 197, 197, 0.5);
+    color: rgb(156, 125, 125);
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    z-index: 1;
+  }
+  
